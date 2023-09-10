@@ -27,7 +27,7 @@ description: >- # used by seo meta and the atom feed
   의약품 정보, 약 이름, 약 효능, 부작용, 사용법.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://powerblog99.github.io/"
+url: "https://powerblog99.github.io"
 
 github:
   username: powerBlog99 # change to your github username
