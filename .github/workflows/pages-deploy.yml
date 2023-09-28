@@ -9,6 +9,10 @@ on:
       - README.md
       - LICENSE
 
+  schedule: 
+    # 평일 6시 (한국시간 15시) 실행
+    - cron: '0 6 * * *'
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
